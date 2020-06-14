@@ -6,7 +6,7 @@
     <description>Recent content in Tags on Debugging the Markets</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 29 Oct 2019 10:07:47 +0600</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2020 11:00:00 +0600</lastBuildDate>
     
 	<atom:link href="https://debuggingthemarkets.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,9 +14,45 @@
     <item>
       <title>Game</title>
       <link>https://debuggingthemarkets.com/tags/game/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      <pubDate>Sun, 14 Jun 2020 11:00:00 +0600</pubDate>
       
       <guid>https://debuggingthemarkets.com/tags/game/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New</title>
+      <link>https://debuggingthemarkets.com/tags/new/</link>
+      <pubDate>Sun, 14 Jun 2020 11:00:00 +0600</pubDate>
+      
+      <guid>https://debuggingthemarkets.com/tags/new/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Photos</title>
+      <link>https://debuggingthemarkets.com/tags/photos/</link>
+      <pubDate>Sun, 14 Jun 2020 11:00:00 +0600</pubDate>
+      
+      <guid>https://debuggingthemarkets.com/tags/photos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>https://debuggingthemarkets.com/tags/python/</link>
+      <pubDate>Sun, 14 Jun 2020 11:00:00 +0600</pubDate>
+      
+      <guid>https://debuggingthemarkets.com/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>React</title>
+      <link>https://debuggingthemarkets.com/tags/react/</link>
+      <pubDate>Sun, 14 Jun 2020 11:00:00 +0600</pubDate>
+      
+      <guid>https://debuggingthemarkets.com/tags/react/</guid>
       <description></description>
     </item>
     
@@ -26,42 +62,6 @@
       <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
       
       <guid>https://debuggingthemarkets.com/tags/html/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>New</title>
-      <link>https://debuggingthemarkets.com/tags/new/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://debuggingthemarkets.com/tags/new/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Photos</title>
-      <link>https://debuggingthemarkets.com/tags/photos/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://debuggingthemarkets.com/tags/photos/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Python</title>
-      <link>https://debuggingthemarkets.com/tags/python/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://debuggingthemarkets.com/tags/python/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>React</title>
-      <link>https://debuggingthemarkets.com/tags/react/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://debuggingthemarkets.com/tags/react/</guid>
       <description></description>
     </item>
     

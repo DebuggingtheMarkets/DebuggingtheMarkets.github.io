@@ -6,17 +6,44 @@
     <description>Recent content in Categories on Debugging the Markets</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 29 Oct 2019 10:07:47 +0600</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2020 11:00:00 +0600</lastBuildDate>
     
 	<atom:link href="https://debuggingthemarkets.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Android And Gmaing</title>
-      <link>https://debuggingthemarkets.com/categories/android-and-gmaing/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      <title>Computer Networks</title>
+      <link>https://debuggingthemarkets.com/categories/computer-networks/</link>
+      <pubDate>Sun, 14 Jun 2020 11:00:00 +0600</pubDate>
       
-      <guid>https://debuggingthemarkets.com/categories/android-and-gmaing/</guid>
+      <guid>https://debuggingthemarkets.com/categories/computer-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ruby</title>
+      <link>https://debuggingthemarkets.com/categories/ruby/</link>
+      <pubDate>Sun, 14 Jun 2020 11:00:00 +0600</pubDate>
+      
+      <guid>https://debuggingthemarkets.com/categories/ruby/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vagrant</title>
+      <link>https://debuggingthemarkets.com/categories/vagrant/</link>
+      <pubDate>Sun, 14 Jun 2020 11:00:00 +0600</pubDate>
+      
+      <guid>https://debuggingthemarkets.com/categories/vagrant/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Virtual box</title>
+      <link>https://debuggingthemarkets.com/categories/virtual-box/</link>
+      <pubDate>Sun, 14 Jun 2020 11:00:00 +0600</pubDate>
+      
+      <guid>https://debuggingthemarkets.com/categories/virtual-box/</guid>
       <description></description>
     </item>
     

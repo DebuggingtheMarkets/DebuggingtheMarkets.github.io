@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Virtual box on Debugging the Markets</title>
+    <link>https://debuggingthemarkets.com/categories/virtual-box/</link>
+    <description>Recent content in Virtual box on Debugging the Markets</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 14 Jun 2020 11:00:00 +0600</lastBuildDate>
+    
+	<atom:link href="https://debuggingthemarkets.com/categories/virtual-box/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How To Create a Virtual Network with Vagrant</title>
+      <link>https://debuggingthemarkets.com/blog/post-1/</link>
+      <pubDate>Sun, 14 Jun 2020 11:00:00 +0600</pubDate>
+      
+      <guid>https://debuggingthemarkets.com/blog/post-1/</guid>
+      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
+    </item>
+    
+  </channel>
+</rss>
